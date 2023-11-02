@@ -1,4 +1,7 @@
 # Greetings, I'm Solar Sorcerer 🌌
+![C#](https://img.shields.io/badge/-C%23-blue)
+![Python](https://img.shields.io/badge/-Python-yellow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
 
 ## 🧙‍♂️ About Me
 Embarking on digital quests, I am not just a web developer but a guardian of web fortresses. From conjuring server spells with Nginx and Apache to the mystical realms of Plesk and cPanel, I command the elements of the web. My expertise extends to the arcane arts of game server infrastructures, where I imbue bare metal servers with the breath of life.
