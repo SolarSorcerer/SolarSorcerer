@@ -29,6 +29,8 @@ Embarking on digital quests, I am not just a web developer but a guardian of web
 - Task Management: Notion
 - Version Control: GitHub & PlasticSCM(Unity Version Control)
 
+![FAST](https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif)
+
 
 These certifications and roles are not just titles; they represent my passion for immersive experiences and cybersecurity education.
 
