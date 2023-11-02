@@ -24,7 +24,6 @@ Embarking on digital quests, I am not just a web developer but a guardian of web
 These certifications and roles are not just titles; they represent my passion for immersive experiences and cybersecurity education.
 
 ## 📈 GitHub Stats
-![Solar Sorcerer's Lang stats]([link-to-github-stats](https://github-readme-stats.vercel.app/api?username=SolarSorcerer)](https://github.com/anuraghazra/github-readme-stats))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolarSorcerer)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
