@@ -24,6 +24,12 @@ Embarking on digital quests, I am not just a web developer but a guardian of web
 - Certiport VR Specialist
 - CyberPatriot Club President & Webmaster
 
+## 🛠️ Workflow
+- IDE: Visual Studio or Jetbrains Rider
+- Task Management: Notion
+- Version Control: GitHub & PlasticSCM(Unity Version Control)
+
+
 These certifications and roles are not just titles; they represent my passion for immersive experiences and cybersecurity education.
 
 ## 📈 GitHub Stats
