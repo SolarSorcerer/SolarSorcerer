@@ -14,7 +14,7 @@ Embarking on digital quests, I am not just a web developer but a guardian of web
 - Programming Languages: 
   - Proficient: C#
   - Familiar: Python, JavaScript, HTML, CSS
-- Operating Systems: Arch Linux, Fedora, Qubes OS
+- Operating Systems: Arch Linux(For performance) and Qubes OS(For usability)
 - Cybersecurity: Penetration Testing Enthusiast
 
 ## 🎮 Gaming, VR & Leadership
